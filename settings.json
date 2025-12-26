@@ -1,0 +1,8 @@
+{
+    "theme": "darkly",
+    "hotkeys": {
+        "record": "Key.f1",
+        "stop": "Key.f2",
+        "play": "Key.f3"
+    }
+}
